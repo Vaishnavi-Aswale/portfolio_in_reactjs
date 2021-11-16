@@ -143,7 +143,7 @@ export default function Profile() {
               />
               <ProfileInfoItem
                 title="Cloud"
-                items={['AWS- S3,RDS,EC2']}
+                items={['AWS- S3,RDS,EC2,ELK']}
               />
             </div>
             <div className="about__info__item">
