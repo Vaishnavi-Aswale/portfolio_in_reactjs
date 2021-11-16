@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import emailjs from 'emailjs-com';
-import {SERVICE,TEMPLATE,KEY} from '../apiKey';
+// import {SERVICE,TEMPLATE,KEY} from '../apiKey';
 require('dotenv').config();
 
 // const service=process.env.SERVICE;
 // const template=process.env.TEMPLATE;
 // const key=process.env.KEY;
-const service= SERVICE;
-const template= TEMPLATE;
-const key= KEY;
+const service= "service_rtgwvtd";
+const template= "template_3qzrc6b";
+const key= "user_6HbqoSD05X7P7UYpyYuea";
 
 const FormStyle = styled.form`
   width: 100%;
