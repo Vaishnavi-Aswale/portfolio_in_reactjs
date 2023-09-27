@@ -71,11 +71,11 @@ export default function Footer() {
                 path: '',
               },
               {
-                title: 'aswalevaishnavi@gmail.com',
-                path: 'mailto:aswalevaishnavi@gmail.com',
+                title: 'vaishnaviaswale051998@gmail.com',
+                path: 'mailto:vaishnaviaswale051998@gmail.com',
               },
               {
-                title: 'Mumbai, Maharashtra, India',
+                title: 'Tempe, Arizona, USA',
                 path: 'http://google.com/maps',
               },
             ]}
