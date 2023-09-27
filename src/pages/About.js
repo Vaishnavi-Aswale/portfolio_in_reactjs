@@ -116,12 +116,11 @@ export default function About() {
                     <div className="about__info">
                             <PText>
                             My innate nature to ponder over a problem and zeal to solve them with innovative ideas led me to pursue engineering.
-                            <br />My interest in the computing world led to the beginning of my career in the field of Information Technology.
                             <br /> <br />
-                            I am currently working at a FinTech startup where I write server side logic, handle ajax calls and build rest apis in PHP.
+                            At Eduvanz, I began as a Software Development Engineer, crafting a customer data verification app that boosted revenue by 65%. I also fine-tuned project functionality with Laravel and CodeIgniter frameworks, optimizing SQL queries by 79%. Transitioning into a Junior Data Scientist role, I improved loan default predictions by 25% using advanced SQL queries and the Random Forest algorithm. I led the creation of a Power BI dashboard, elevating revenue by 10%. My role also involved designing and implementing Python and SQL data pipelines for precise analysis in business operations.
+                             <br />
                             <br />
-                            <br />
-                            Data,if interpreted correctly can create wonders - this has driven me to explore the field of data science. I have created data viz using Tableau and projects for data analytics using python.
+                            Now, pursuing a Master&apos;s in Information Technology at ASU, I am passionate about technology and eager to innovate.
                             </PText>
                     </div>
                     <div className="download_cv">
