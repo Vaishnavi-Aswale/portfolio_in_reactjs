@@ -125,13 +125,10 @@ export default function Profile() {
           <div className="about__info__items">
             <div className="about__info__item">
               <h1 className="about__info__heading">Skills</h1>
-              <ProfileInfoItem
-                title="Analytics"
-                items={['Tableau','Python =>','Numpy,Pandas,SciKit learn,Matplotlib,Seaborn']}
-              />
+              
               <ProfileInfoItem
                 title="BackEnd"
-                items={['PHP', 'Python', '.NET']}
+                items={['PHP', 'Python', 'NodeJs']}
               />
               <ProfileInfoItem
                 title="FrontEnd"
@@ -140,6 +137,10 @@ export default function Profile() {
               <ProfileInfoItem
                 title="Database"
                 items={['MySQL', 'SQLite', 'Oracle', 'Firebase']}
+              />
+              <ProfileInfoItem
+                title="Analytics"
+                items={['Tableau','Power BI','Python =>','Numpy,Pandas,SciKit learn,Matplotlib,Seaborn']}
               />
               <ProfileInfoItem
                 title="Cloud"
@@ -169,16 +170,13 @@ export default function Profile() {
               <h1 className="about__info__heading">Education</h1>
 
               <ProfileInfoItem
-                title="School"
-                items={['Don Bosco High School','SSC- 92.4%']}
+                title="M.S"
+                items={['Arizona State University','Information Technology']}
               />
-              <ProfileInfoItem
-                title="HSC"
-                items={['Birla College','80.7%']}
-              />
+              
               <ProfileInfoItem
                 title="B.E"
-                items={['Vidyalankar Institute of Technology','Information Technology- 8.81']}
+                items={['Vidyalankar Institute of Technology','Information Technology- 8.83']}
               />
               
             </div>
