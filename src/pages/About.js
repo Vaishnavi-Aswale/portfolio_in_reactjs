@@ -117,7 +117,9 @@ export default function About() {
                             <PText>
                             My innate nature to ponder over a problem and zeal to solve them with innovative ideas led me to pursue engineering.
                             <br /> <br />
-                            At Eduvanz, I began as a Software Development Engineer, crafting a customer data verification app that boosted revenue by 65%. I also fine-tuned project functionality with Laravel and CodeIgniter frameworks, optimizing SQL queries by 79%. Transitioning into a Junior Data Scientist role, I improved loan default predictions by 25% using advanced SQL queries and the Random Forest algorithm. I led the creation of a Power BI dashboard, elevating revenue by 10%. My role also involved designing and implementing Python and SQL data pipelines for precise analysis in business operations.
+                            At Eduvanz, I began as a Software Development Engineer, crafting a customer data verification app that boosted revenue by 65%. I also fine-tuned project functionality with Laravel and CodeIgniter frameworks, optimizing SQL queries by 79%. 
+                            <br />  <br />
+                            Transitioning into a Junior Data Scientist role, I improved loan default predictions by 25% using advanced SQL queries and the Random Forest algorithm. I led the creation of a Power BI dashboard, elevating revenue by 10%. My role also involved designing and implementing Python and SQL data pipelines for precise analysis in business operations.
                              <br />
                             <br />
                             Now, pursuing a Master&apos;s in Information Technology at ASU, I am passionate about technology and eager to innovate.
