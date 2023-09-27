@@ -32,28 +32,21 @@ export default function WorkEx() {
             <WorkItems
               icon={<MdDesktopMac />}
               title="Software Developer"
-              subtitle="Eduvanz Financing Pvt Ltd- 2nd Nov- Present"
-              desc="Writing server side logic in PHP and developing website using HTML,CSS,JQUERY,AJAX. 
-                Building Rest apis in php and using postman for development, Performing SQL operations on relational database via MySQL Workbench,Integration with third party APIs,GIT for version control,Perform daily scrums & routine code reviews."
+              subtitle="Eduvanz Financing Pvt Ltd- Nov 2020- Sept 2020"
+              desc="I developed a customer data verification application using HTML, CSS, JavaScript, and PHP, resulting in a 65% revenue increase by streamlining loan applications. I improved project functionality by contributing to Laravel and CodeIgniter frameworks, optimized heavy SQL queries by 79%, and integrated third-party APIs for efficient collaboration using Git and JIRA."
+            />
+            
+            <WorkItems
+              icon={<MdPeopleOutline />}
+              title="Junior Data Scientist"
+              subtitle="Eduvanz Financing Pvt Ltd- Sept 2022- July 2023"
+              desc="I leveraged advanced SQL queries to analyze loan default predictions, achieving a 25% accuracy improvement through data preprocessing and Random Forest Algorithm. I spearheaded the creation of a Power BI dashboard, resulting in a 10% revenue boost through data-driven insights. Designed, validated, and implemented Python and SQL data pipelines for precise analysis and reporting in business operations."
             />
             <WorkItems
               icon={<MdCloudQueue />}
               title="Cloud Intern"
               subtitle="iFuture Technologies -2 months"
-              desc="Installation and configuration of client and server
-                Network Management
-                Planning, design and development of an application on Cloud
-                Worked with virtualization technology
-                Applied Knowledge of networking concepts (e.g., DNS, TCP/IP, and firewalls)"
-            />
-            <WorkItems
-              icon={<MdPeopleOutline />}
-              title="Marketing Intern"
-              subtitle="Alterego -2 months"
-              desc="Market Research including collecting data on consumers, consolidating information into actionable items, reports and presentations.
-                SWOT analysis. Also involved in making their strategy, work plan, funding model.
-                Developed project management skills
-                Implemented the 7 p's of marketing and evaluated various marketing strategies for Alterego"
+              desc="I established a client-server setup in a private cloud, linking devices via LAN, with one as the server and the rest as clients, all on Microsoft Server OS. I also managed the deployment of a cloud app, ensuring seamless access and performance on client devices."
             />
           </div>
         </div>
