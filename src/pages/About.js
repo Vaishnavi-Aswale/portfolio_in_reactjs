@@ -126,7 +126,7 @@ export default function About() {
                             </PText>
                     </div>
                     <div className="download_cv">
-                        <a href="https://drive.google.com/file/d/1B-qkEGEakZ1BGeGGYQIG1XGHTJHo2zGH/view?usp=share_link">Download Resume</a>
+                        // <a href="https://drive.google.com/file/d/1B-qkEGEakZ1BGeGGYQIG1XGHTJHo2zGH/view?usp=share_link">Download Resume</a>
                     </div>
                 </div>
                 <div className="right">
