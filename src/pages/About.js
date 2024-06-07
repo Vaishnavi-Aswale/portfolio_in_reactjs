@@ -125,9 +125,7 @@ export default function About() {
                             Now, pursuing a Master&apos;s in Information Technology at ASU, I am passionate about technology and eager to innovate.
                             </PText>
                     </div>
-                    <div className="download_cv">
-                        // <a href="https://drive.google.com/file/d/1B-qkEGEakZ1BGeGGYQIG1XGHTJHo2zGH/view?usp=share_link">Download Resume</a>
-                    </div>
+                    
                 </div>
                 <div className="right">
                     <img src={AboutImg} className="aboutImgStyle" alt="me" />
