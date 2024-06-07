@@ -112,14 +112,14 @@ export default function About() {
                     <p className="about__subheading">
                         Hi, I am <span>Vaishnavi Aswale</span>
                     </p>
-                    <h2 className="about__heading">Software developer</h2>
+                    <h2 className="about__heading">Data & Software Enthusiast</h2>
                     <div className="about__info">
                             <PText>
                             My innate nature to ponder over a problem and zeal to solve them with innovative ideas led me to pursue engineering.
                             <br /> <br />
-                            At Eduvanz, I began as a Software Development Engineer, crafting a customer data verification app that boosted revenue by 65%. I also fine-tuned project functionality with Laravel and CodeIgniter frameworks, optimizing SQL queries by 79%. 
+                            At Eduvanz, I developed a customer data verification app that boosted revenue by 65%, integrated third-party APIs, created a comprehensive dashboard, and optimized SQL queries, achieving a 79% improvement in performance. 
                             <br />  <br />
-                            Transitioning into a Junior Data Scientist role, I improved loan default predictions by 25% using advanced SQL queries and the Random Forest algorithm. I led the creation of a Power BI dashboard, elevating revenue by 10%. My role also involved designing and implementing Python and SQL data pipelines for precise analysis in business operations.
+                            I leveraged Python and SQL to develop robust ETL data pipelines, streamlining data processing and enhancing operational efficiency. I also built a loan default prediction model, which contributed to better risk management and decision-making processes.
                              <br />
                             <br />
                             Now, pursuing a Master&apos;s in Information Technology at ASU, I am passionate about technology and eager to innovate.
