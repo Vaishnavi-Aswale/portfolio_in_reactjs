@@ -29,6 +29,12 @@ export default function WorkEx() {
         <div className="container">
           <SectionTitle subheading=" " heading="Experience" />
           <div className="works__allItems">
+       <WorkItems
+              icon={<MdCloudQueue />}
+              title="AI Developer Intern"
+              subtitle="Fetchrocket -July 2024- Present"
+              desc=""
+            />
             <WorkItems
               icon={<MdDesktopMac />}
               title="Software Developer"
@@ -42,12 +48,7 @@ export default function WorkEx() {
               subtitle="Eduvanz Financing Pvt Ltd- Sept 2022- July 2023"
               desc=""
             />
-            <WorkItems
-              icon={<MdCloudQueue />}
-              title="Cloud Intern"
-              subtitle="iFuture Technologies -2 months"
-              desc=""
-            />
+           
           </div>
         </div>
       </WorkItemsStyles>
