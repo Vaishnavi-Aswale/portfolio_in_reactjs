@@ -29,10 +29,16 @@ export default function WorkEx() {
         <div className="container">
           <SectionTitle subheading=" " heading="Experience" />
           <div className="works__allItems">
+      <WorkItems
+              icon={<MdPeopleOutline />}
+              title="AI Solutions Architect 2"
+              subtitle="theLender -Feb 2025- Present"
+              desc=""
+            />
        <WorkItems
               icon={<MdCloudQueue />}
               title="AI Developer Intern"
-              subtitle="Fetchrocket -July 2024- Present"
+              subtitle="Fetchrocket -July 2024- Jan 2025"
               desc=""
             />
             <WorkItems
