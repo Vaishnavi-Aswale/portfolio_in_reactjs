@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.23883dd6.css",
-    "main.js": "/static/js/main.d9046fe0.js",
+    "main.js": "/static/js/main.c473f421.js",
     "static/media/analysis.jpg": "/static/media/analysis.bec28449866351daa4bc.jpg",
     "static/media/real-estate.png": "/static/media/real-estate.78070543f5198a9e8367.png",
     "static/media/AzMap.png": "/static/media/AzMap.84c1f3b8b0e021c945ad.png",
@@ -24,10 +24,10 @@
     "index.html": "/index.html",
     "static/media/scroll-down-arrow.svg": "/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
     "main.23883dd6.css.map": "/static/css/main.23883dd6.css.map",
-    "main.d9046fe0.js.map": "/static/js/main.d9046fe0.js.map"
+    "main.c473f421.js.map": "/static/js/main.c473f421.js.map"
   },
   "entrypoints": [
     "static/css/main.23883dd6.css",
-    "static/js/main.d9046fe0.js"
+    "static/js/main.c473f421.js"
   ]
 }

@@ -80,8 +80,7 @@ export default function AboutSection() {
                     heading="Hello World!"
                 />
                 <PText>
-                I&apos;m Vaishnavi Aswale, a tech enthusiast with a Bachelor&apos;s degree in Information Technology, graduated in 2020. Currently pursuing a Master&apos;s in Information Technology at ASU, I&apos;ve amassed 2.9 years of professional experience.
-                </PText>
+                I&apos;m Vaishnavi Aswale, a tech enthusiast with a Master&apos;s degree in Information Technology (2025) from ASU with a 4 GPA. I bring 2.9 years of professional experience in software development, and AI solutions                </PText>
                 <div className="aboutSection__buttons">
                     <Button btnText="Profile" btnLink="/profile" />
                     <Button btnText="Read More" btnLink="/about" outline />

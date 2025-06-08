@@ -36,28 +36,23 @@ export default function WorkEx() {
         <div className="works__allItems">
           <WorkItems
             icon={<MdPeopleOutline />}
-            title="AI Solutions Architect 2"
+            title="Software & AI Developer"
             subtitle="theLender - Feb 2025 – May 2025"
             // desc="Designed and deployed AI-driven solutions for loan processing workflows using LLMs, XGBoost, and AWS Bedrock. Integrated GPT-based APIs to automate financial Q&A systems."
           />
           <WorkItems
             icon={<MdCloudQueue />}
-            title="AI Developer Intern"
+            title="Software & AI Developer Intern"
             subtitle="Fetchrocket - July 2024 – Jan 2025"
             // desc="Built LLM-powered chat and voice apps using OpenAI, Langchain, and Gemini. Integrated Pinecone and Redis to boost performance and scalability by 30%."
           />
           <WorkItems
             icon={<MdDesktopMac />}
             title="Software Developer"
-            subtitle="Eduvanz Financing Pvt Ltd - Nov 2020 – Sept 2022"
+            subtitle="Eduvanz Financing Pvt Ltd - Nov 2020 – July 2023"
             // desc="Developed customer verification systems using React and Java. Built scalable REST APIs with Spring Boot and enhanced DB performance by 25% using optimized SQL and caching."
           />
-          <WorkItems
-            icon={<MdPeopleOutline />}
-            title="Junior Data Scientist"
-            subtitle="Eduvanz Financing Pvt Ltd - Sept 2022 – July 2023"
-            // desc="Built machine learning models for loan risk prediction using Python and SQL. Designed ETL pipelines and a virtual GPT-based assistant to cut support response times by 60%."
-          />
+
         </div>
       </div>
     </WorkItemsStyles>

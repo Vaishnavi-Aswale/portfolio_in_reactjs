@@ -161,7 +161,7 @@ export default function HeroSection() {
                 </div>
                 <div className="hero__info">
                     <Ptext>
-                    I am a Software developer. I believe in rightly leveraging technology to solve real-world problems. Apart from my interest in technology, I like to explore new places and eat amazing food! 
+                    I am a Software developer. I believe in rightly leveraging technology to solve real-world problems! 
                     </Ptext>
                     <Button btnLink="/projects" btnText="Check out projects" outline={false}/>
                     
