@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2bc1cf89.chunk.js",
+    "main.js.map": "/static/js/main.2bc1cf89.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc33665e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc33665e.js.map",
+    "static/css/2.853ba1bc.chunk.css": "/static/css/2.853ba1bc.chunk.css",
+    "static/js/2.3a453aa1.chunk.js": "/static/js/2.3a453aa1.chunk.js",
+    "static/js/2.3a453aa1.chunk.js.map": "/static/js/2.3a453aa1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.853ba1bc.chunk.css.map": "/static/css/2.853ba1bc.chunk.css.map",
+    "static/js/2.3a453aa1.chunk.js.LICENSE.txt": "/static/js/2.3a453aa1.chunk.js.LICENSE.txt",
+    "static/media/6.8ca3514e.jpg": "/static/media/6.8ca3514e.jpg",
+    "static/media/AzMap.84c1f3b8.png": "/static/media/AzMap.84c1f3b8.png",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/adventure.41b31368.jpg": "/static/media/adventure.41b31368.jpg",
+    "static/media/analysis.bec28449.jpg": "/static/media/analysis.bec28449.jpg",
+    "static/media/chat.24c65491.jpg": "/static/media/chat.24c65491.jpg",
+    "static/media/cms.e362c050.jpg": "/static/media/cms.e362c050.jpg",
+    "static/media/driver.a6e6909e.jpg": "/static/media/driver.a6e6909e.jpg",
+    "static/media/ecommerce.76fb8f06.jpg": "/static/media/ecommerce.76fb8f06.jpg",
+    "static/media/food.4775fda7.png": "/static/media/food.4775fda7.png",
+    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
+    "static/media/real-estate.78070543.png": "/static/media/real-estate.78070543.png",
+    "static/media/recom.8a0fe7fa.png": "/static/media/recom.8a0fe7fa.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/travel.ca501795.jpg": "/static/media/travel.ca501795.jpg",
+    "static/media/va.fc08ac27.jpg": "/static/media/va.fc08ac27.jpg",
+    "static/media/vaish.b5e70ca1.jpg": "/static/media/vaish.b5e70ca1.jpg",
+    "static/media/vehicleAnalysis.bfe5b309.jpg": "/static/media/vehicleAnalysis.bfe5b309.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc33665e.js",
+    "static/css/2.853ba1bc.chunk.css",
+    "static/js/2.3a453aa1.chunk.js",
+    "static/js/main.2bc1cf89.chunk.js"
+  ]
+}
