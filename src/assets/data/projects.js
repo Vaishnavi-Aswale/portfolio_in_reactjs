@@ -1,5 +1,5 @@
 import { v4 as uuidv4 } from 'uuid';
-import CMS from '../images/cms.jpg';
+import CMS from '../images/cms.JPG';
 import realEstate from '../images/real-estate.png';
 import chatApp from '../images/chat.jpg';
 import shopVerse from '../images/ecommerce.jpg';
