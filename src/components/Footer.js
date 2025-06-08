@@ -75,7 +75,7 @@ export default function Footer() {
                 path: 'mailto:vaishnaviaswale051998@gmail.com',
               },
               {
-                title: 'Tempe, Arizona, USA',
+                title: 'USA',
                 path: 'http://google.com/maps',
               },
             ]}

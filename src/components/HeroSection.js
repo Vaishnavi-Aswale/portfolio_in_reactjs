@@ -19,7 +19,7 @@ const HeroStyles = styled.div`
   }
   .hero__heading {
     font-size: 2rem;
-    margin-bottom: -4rem;
+    margin-bottom: -1rem;
     position: relative;
     span {
       display: inline-block;
@@ -164,9 +164,7 @@ export default function HeroSection() {
                     I am a Software developer. I believe in rightly leveraging technology to solve real-world problems. Apart from my interest in technology, I like to explore new places and eat amazing food! 
                     </Ptext>
                     <Button btnLink="/projects" btnText="Check out projects" outline={false}/>
-                    {/* <div className="download_cv">
-                        <a href="https://drive.google.com/file/d/1JN-g1wWijv8JjvF6oT4xImckx1ZJHFPo/view?usp=sharing">Download Resume</a>
-                    </div> */}
+                    
                 </div>
                 <div className="hero__social">
             <div className="hero__social__indicator">

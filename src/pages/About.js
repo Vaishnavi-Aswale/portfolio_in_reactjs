@@ -112,18 +112,19 @@ export default function About() {
                     <p className="about__subheading">
                         Hi, I am <span>Vaishnavi Aswale</span>
                     </p>
-                    <h2 className="about__heading">Data & Software Enthusiast</h2>
+                    <h2 className="about__heading">Software & AI Enthusiast</h2>
                     <div className="about__info">
-                            <PText>
-                              My innate nature to ponder over a problem and zeal to solve them with innovative ideas led me to pursue engineering.
-                              <br /> <br />
-                              At Eduvanz, I developed a customer data verification app that boosted revenue by 65%, integrated third-party APIs, created a comprehensive dashboard, and optimized SQL queries, achieving a 79% improvement in performance. 
-                              <br />  <br />
-                              I leveraged Python and SQL to develop robust ETL data pipelines, streamlining data processing and enhancing operational efficiency. I also built a loan default prediction model, which contributed to better risk management and decision-making processes.
-                              <br />
-                              <br />
-                              I graduated with a Master&apos;s degree in Information Technology from ASU in May 2025. I am passionate about technology and eager to innovate. I have hands-on experience integrating large language models (LLMs), including GPT-based systems. I previously worked as an <b>AI Developer Intern at FetchRocket</b>, where I built LLM-powered applications, and I am currently working as an <b>AI Solutions Architect 2 at theLender</b>, leading the design of AI-driven solutions for real-world financial workflows.
-                          </PText>
+                    <PText>
+                    My innate nature to ponder over a problem and zeal to solve them with innovative ideas led me to pursue engineering.
+                    <br /> <br />
+                    At Eduvanz, I developed a customer data verification app that boosted revenue by 65%, integrated third-party APIs, created a comprehensive dashboard, and optimized SQL queries, achieving a 79% improvement in performance. 
+                    <br />  <br />
+                    I leveraged Python and SQL to develop robust ETL data pipelines, streamlining data processing and enhancing operational efficiency. I also built a loan default prediction model, which contributed to better risk management and decision-making processes.
+                    <br />
+                    <br />
+                    I graduated with a Master&apos;s degree in Information Technology from ASU in May 2025. I am passionate about technology and eager to innovate. I have hands-on experience integrating large language models (LLMs), including GPT-based systems. During my Master&apos;s, I interned at <b>FetchRocket</b> and <b>theLender</b>, where I got to bring together my Full-Stack skills with Generative AI to build impactful solutions.
+                  </PText>
+
 
                     </div>
                     

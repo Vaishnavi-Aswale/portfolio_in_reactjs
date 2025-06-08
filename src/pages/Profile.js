@@ -128,7 +128,7 @@ export default function Profile() {
               
               <ProfileInfoItem
                 title="BackEnd"
-                items={['PHP', 'Python', 'NodeJs']}
+                items={['Python', 'Java', 'C#', 'NodeJs']}
               />
               <ProfileInfoItem
                 title="FrontEnd"
@@ -139,12 +139,8 @@ export default function Profile() {
                 items={['MySQL', 'SQLite', 'Oracle', 'Firebase']}
               />
               <ProfileInfoItem
-                title="Analytics"
-                items={['Tableau','Power BI','Python =>','Numpy,Pandas,SciKit learn,Matplotlib,Seaborn']}
-              />
-              <ProfileInfoItem
                 title="Cloud"
-                items={['AWS- S3,RDS,EC2,ELK']}
+                items={['AWS- S3,RDS,EC2,ELK,CloudWatch,Lambda', 'GCP- Cloud Run, Cloud SQL, Cloud Storage']}
               />
             </div>
             <div className="about__info__item">

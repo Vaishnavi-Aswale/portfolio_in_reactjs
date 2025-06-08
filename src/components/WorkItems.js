@@ -31,7 +31,7 @@ export default function WorkItems({
     icon = <MdDesktopMac />,
     title = 'Software Developer',
     subtitle="company",
-    desc = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ok",
+    // desc = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ok",
   }) {
     return (
       <ItemStyles className="worksItem">
@@ -40,7 +40,7 @@ export default function WorkItems({
         <div className="worksItem__subtitle">{subtitle}</div>
         {/* <Ptext>{desc}</Ptext> */}
         <div className="para">
-        <div className="worksItem__desc">{desc}</div>
+        {/* <div className="worksItem__desc">{desc}</div> */}
         </div>
       </ItemStyles>
     );
