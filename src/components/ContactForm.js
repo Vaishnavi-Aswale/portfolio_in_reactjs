@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
+import emailjs from '@emailjs/browser';
 import styled from 'styled-components';
-import emailjs from 'emailjs-com';
 // import {SERVICE,TEMPLATE,KEY} from '../apiKey';
-require('dotenv').config();
 
 // const service=process.env.SERVICE;
 // const template=process.env.TEMPLATE;
